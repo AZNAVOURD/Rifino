@@ -1,0 +1,30 @@
+{
+
+  "name": "discord-music-bot",
+
+  "version": "1.0.0",
+
+  "description": "A Discord bot for playing music",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "author": "Your Name",
+
+  "license": "MIT",
+
+  "dependencies": {
+
+    "discord.js": "^13.1.0",
+
+    "ytdl-core": "^4.9.1"
+
+  }
+
+}
+
